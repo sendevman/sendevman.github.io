@@ -1,25 +1,16 @@
 {
   "files": {
-    "main.css": "https://sendevman.github.io/static/css/main.db76a3b0.chunk.css",
-    "main.js": "https://sendevman.github.io/static/js/main.0ad1cfe4.chunk.js",
-    "main.js.map": "https://sendevman.github.io/static/js/main.0ad1cfe4.chunk.js.map",
-    "runtime-main.js": "https://sendevman.github.io/static/js/runtime-main.25586bf1.js",
-    "runtime-main.js.map": "https://sendevman.github.io/static/js/runtime-main.25586bf1.js.map",
-    "static/css/2.d64471e2.chunk.css": "https://sendevman.github.io/static/css/2.d64471e2.chunk.css",
-    "static/js/2.5bff3dec.chunk.js": "https://sendevman.github.io/static/js/2.5bff3dec.chunk.js",
-    "static/js/2.5bff3dec.chunk.js.map": "https://sendevman.github.io/static/js/2.5bff3dec.chunk.js.map",
+    "main.css": "https://sendevman.github.io/static/css/main.fe927caf.css",
+    "main.js": "https://sendevman.github.io/static/js/main.c83bc7fd.js",
+    "static/js/787.4b24f717.chunk.js": "https://sendevman.github.io/static/js/787.4b24f717.chunk.js",
+    "static/media/hashirshoaeb.png": "https://sendevman.github.io/static/media/hashirshoaeb.23e8b5a1f7de87f03d05.png",
     "index.html": "https://sendevman.github.io/index.html",
-    "precache-manifest.59205481f5994cd3432880800ba27b28.js": "https://sendevman.github.io/precache-manifest.59205481f5994cd3432880800ba27b28.js",
-    "service-worker.js": "https://sendevman.github.io/service-worker.js",
-    "static/css/2.d64471e2.chunk.css.map": "https://sendevman.github.io/static/css/2.d64471e2.chunk.css.map",
-    "static/css/main.db76a3b0.chunk.css.map": "https://sendevman.github.io/static/css/main.db76a3b0.chunk.css.map",
-    "static/js/2.5bff3dec.chunk.js.LICENSE.txt": "https://sendevman.github.io/static/js/2.5bff3dec.chunk.js.LICENSE.txt"
+    "main.fe927caf.css.map": "https://sendevman.github.io/static/css/main.fe927caf.css.map",
+    "main.c83bc7fd.js.map": "https://sendevman.github.io/static/js/main.c83bc7fd.js.map",
+    "787.4b24f717.chunk.js.map": "https://sendevman.github.io/static/js/787.4b24f717.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.25586bf1.js",
-    "static/css/2.d64471e2.chunk.css",
-    "static/js/2.5bff3dec.chunk.js",
-    "static/css/main.db76a3b0.chunk.css",
-    "static/js/main.0ad1cfe4.chunk.js"
+    "static/css/main.fe927caf.css",
+    "static/js/main.c83bc7fd.js"
   ]
 }
